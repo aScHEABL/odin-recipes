@@ -6,8 +6,19 @@
 }
 .main-title{
     font-size:xx-large;
+    font-family: 'Twinkle Star', 'Noto Sans TC', 'Microsoft YaHei';
 }
 .recipe-image{
     width:960px;
     height: auto;
+}
+#logo{
+    width:250px;
+    height: auto;
+    display: flex;
+    margin-left: 40vw;
+}
+li{
+    font-family: 'Twinkle Star', 'Noto Sans TC', 'Microsoft YaHei';
+    font-size:30px;
 }
